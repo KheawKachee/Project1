@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "startBtn",
   "spriteId": {
-    "name": "sprite_playBtn",
-    "path": "sprites/sprite_playBtn/sprite_playBtn.yy",
+    "name": "Spr_playBtn",
+    "path": "sprites/Spr_playBtn/Spr_playBtn.yy",
   },
   "solid": false,
   "visible": true,
