@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "gameSetting",
+  "name": "Object5",
   "spriteId": null,
   "solid": false,
   "visible": true,
